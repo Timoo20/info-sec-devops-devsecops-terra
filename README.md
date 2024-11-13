@@ -107,8 +107,6 @@ In this scenario, I exposed a service via **Nginx Ingress**, but it wasn’t acc
 
 5. **Nginx Logs**: Finally, I looked at the logs of the **Nginx Ingress Controller** to check for any issues in routing or configuration.
 
-By following these steps, I was able to pinpoint the source of the issue (a misconfigured DNS entry), and after fixing it, the service was accessible.
-
 ---
 
 ## Tech Stack Used
@@ -140,5 +138,5 @@ If you want to connect or have any questions about this repository or the exerci
 - **LinkedIn**: [Tim Murkomen](https://www.linkedin.com/in/timoo20//)
 ---
 ## LICENCE
-**License**: This project is Licensed under a Tim Murkomen Custom License by Tim Murkomen - Here is the Link  [Custom Licence](https://github.com/Timoo20/info-sec-devops-devsecops-terra/edit/main/LICENCE) !
+**License**: This project is Licensed under a Tim Murkomen Custom License by Tim Murkomen - Here is the Link  [Custom Licence](https://github.com/Timoo20/info-sec-devops-devsecops-terra/blob/main/LICENSE)
 ```
