@@ -131,7 +131,7 @@ To get started with this project, you'll need:
 ---
 ## About Me & Contact
 
-I'm a **Cybersecurity & DevOps professional** passionate about building secure, scalable, and efficient applications. I focus on bridging the gap between development and security to create seamless solutions that are both effective and safe.
+I'm a **Cybersecurity/DevSecOps/DevOps professional** passionate about building secure, scalable, and efficient applications. I focus on bridging the gap between development and security to create seamless solutions that are both effective and safe.
 
 If you want to connect or have any questions about this repository or the exercises, feel free to reach out!
 
