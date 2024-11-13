@@ -24,7 +24,7 @@ The main goal of this exercise was to set up a simple web server inside a Docker
 
 #### The steps I followed were:
 1. **Creating the Dockerfile**: I started by creating a `Dockerfile` to configure the web server. The Dockerfile uses the official **Nginx** image, and it exposes the application on port `8002`.
-   
+   As demonstrated in [Configuration](https://github.com/Timoo20/info-sec-devops-devsecops-terra/blob/main/Dockerfile)
     ```Dockerfile
     # Nginx image in the Docker Hub
     FROM nginx:latest
@@ -40,6 +40,7 @@ The main goal of this exercise was to set up a simple web server inside a Docker
         ```
 2. **Building and Running the Container**:
    After writing the Dockerfile, I built the Docker image using the following command:
+    As demonstrated in [Runninng](https://github.com/Timoo20/info-sec-devops-devsecops-terra/blob/main/.github/workflows/docker-build.yml)
    ```bash
    docker build -t terra-simple-nginx-server .
    ```
@@ -47,7 +48,7 @@ The main goal of this exercise was to set up a simple web server inside a Docker
    ```bash
    docker run -d -p 8002:80 terra-simple-nginx-server
    ```
-The web server was live and accessible at `http://localhost:8002`. As shown in the Screenshort [https://github.com/Timoo20/info-sec-devops-devsecops-terra/blob/main/images-screenshots/Validating%20in%20localhost.png]
+The web server was live and accessible at `http://localhost:8002`. [As shown in the Screenshort](https://github.com/Timoo20/info-sec-devops-devsecops-terra/blob/main/images-screenshots/Validating%20in%20localhost.png)
 
 ---
 ### Health Check
