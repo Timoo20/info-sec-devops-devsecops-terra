@@ -1,0 +1,3 @@
+#Command for buiding the image
+
+docker build -t terra-simple-nginx-server .
