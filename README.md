@@ -1,4 +1,4 @@
-# info-sec-devsecops-terra
+# Terra info-sec-devsecops
 ---
 This repository demonstrates and showcases the solutions for a series of exercises for Info-Sec/DevSecOps/DevOps. It includes hands-on assessments that demonstrate containerization technologies (Docker- to be specific), setting up health checks, and troubleshooting issues that are related to web servers and Nginx Ingress configurations. It outlines my problem-solving approach and technical expertise in both Information Security, DevSecOps, DevOps, and the best practice, hence strengthening the security of the application delivery and infrastructure management. The scope of this task is focused on - **Information Security (Info-Sec)**, **DevSecOps**, and **DevOps**.
 ---
