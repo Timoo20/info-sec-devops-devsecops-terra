@@ -7,7 +7,7 @@ COPY nginx/nginx.conf /etc/nginx/nginx.conf
 # Exposing the port 8002
 EXPOSE 8002
 
-# Health Check
+# Health Check 
 HEALTHCHECK --interval=30s --timeout=5s --retries=3 \
   CMD curl -f http://localhost:8002/ || exit 1
 
