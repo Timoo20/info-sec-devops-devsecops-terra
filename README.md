@@ -151,7 +151,7 @@ I'm a **Developer/Cybersecurity/DevSecOps/DevOps professional** passionate about
 
 If you want to connect or have any questions about this repository or the exercises, feel free to reach out!
 
-- **Email**: [timothymurkomen@gmail.com](mailto:timothymurkomen@gmail.com)
+- **Email**: [Email Me](mailto:timothymurkomen@gmail.com)
 - **LinkedIn**: [Tim Murkomen](https://www.linkedin.com/in/timoo20/)
 ---
 ## LICENCE
