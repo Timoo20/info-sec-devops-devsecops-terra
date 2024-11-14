@@ -155,7 +155,7 @@ If you want to connect or have any questions about this repository or the exerci
 - **LinkedIn**: [Tim Murkomen](https://www.linkedin.com/in/timoo20/)
 ---
 ## LICENCE
-**License**: This project is Licensed under a Tim Murkomen Custom License by Tim Murkomen - Here is the Link  [Custom Licence](https://github.com/Timoo20/info-sec-devops-devsecops-terra/blob/main/LICENSE)
+**License**: This project is Licensed under a Custom License by Tim Murkomen - Here is the Link  [Custom Licence](https://github.com/Timoo20/info-sec-devops-devsecops-terra/blob/main/LICENSE)
 
 ---
 Contributor: [Tim Murkomen](https://github.com/Timoo20) 
